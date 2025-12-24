@@ -88,7 +88,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository**
     ```sh
-    git clone 
+    git clone https://github.com/supriya0415/voice-agent
     ```
 2.  **Navigate to the latest project directory** (e.g., `day-30`).
     ```sh
